@@ -1,4 +1,3 @@
-// index.js
 const express = require("express");
 const amqp = require("amqplib");
 const axios = require("axios");
